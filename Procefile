@@ -1,0 +1,1 @@
+web: gunicorn qoura.wsgi --log-file -
